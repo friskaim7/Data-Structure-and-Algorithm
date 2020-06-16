@@ -1,3 +1,13 @@
+﻿/*=======================================================================================
+Program		: stack.c
+Author		: Friska Intan Muta'alliy
+Description	: Stack ADT body implementation file
+Date		: Tuesday, 26 May 2020  18:49:21
+Version		: 1.0
+Compiler	: gcc (tdm64-1) 5.1.0
+Note		: -
+=========================================================================================*/
+
 #include "stack.h"
 
 /*=========================*/
